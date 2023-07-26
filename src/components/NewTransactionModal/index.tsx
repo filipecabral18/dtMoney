@@ -23,7 +23,7 @@ export function NewTransactionModal() {
         }
     })
     function handleNewTransaction(data: TransctionFormInputs) {
-        console.log(data)
+        console.log(data);
     }
 
     return (
